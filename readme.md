@@ -3,6 +3,20 @@
 Try out all of the UI sets your front-end heart desires. 
 Built with React.
 
+Install dependencies and then run.
+
+```
+npm install
+
+npm start
+```
+
+Build with
+
+```
+npm run build
+```
+
 **This is a work in progress.** 
 #### To Do
 
