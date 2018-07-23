@@ -36,7 +36,7 @@ npm run build
 * [ ] Add user registration/login to save customizations.
 
 
-**Note 1:** Because CRA bundles the styles globally, importing any others messes with it. For example, as of right now, you can import the foundation stylesheet via cdn and it will work and the components will be properly styled, but it messes with the layout of the page slightly. You can test this by going to public/index.html and uncommenting line 17. Probably easiest to go through the stylesheet and ctrl+f to extract necessary pieces.
+**Note 1:** Because CRA bundles the styles globally, importing any others messes with it. For example, as of right now, you can import the foundation stylesheet via cdn and it will work and the components will be properly styled, but it messes with the layout of the page slightly. You can test this by going to public/index.html and uncommenting line 17.
 
 #### References:
 
